@@ -11,7 +11,7 @@ or die('Error connecting to MySQL server');
 </head>
 <body>
 <h1> Hello World in PHP. </h1>
-
+<p> Learning new things :) </p>
 <?php
 # Fill our vars and run on cli
 # $ php -f db-connect-test.php
